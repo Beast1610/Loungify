@@ -1,3 +1,16 @@
+# What is Loungify?
+Loungify is a web application aimed at offering individuals a digital sanctuary for brief respite from their demanding, fast-paced routines. 
+
+# Objective :
+Our web application, Loungify, aims to counter the addictive nature of mainstream social media platforms like Instagram and Facebook, which often consume excessive time, hindering productivity and contributing to stress and depression. 
+Unlike these platforms, Loungify offers users a non-addictive space for quick 5-10 minute refreshment, allowing them to rejuvenate without the negative impact on their work and well-being.
+
+# Functionality
+- The platform acts as an all in one entertainment destination.
+- The user is provided with an option to choose among various entertainment options like News, Games, Jokes, and many more. 
+- Once chosen, the user is navigated to the chosen page where they can spend their leisure time performing various activities. 
+- The UI design is Responsive and is user friendly for all age groups.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -14,57 +27,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+# Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![WhatsApp Image 2023-11-22 at 18 24 33_606a255c](https://github.com/Beast1610/Loungify/assets/111764205/1e7c2791-9efd-432d-b8dc-8cd26c443a49)
+![WhatsApp Image 2023-11-22 at 18 16 56_eaf46c5f](https://github.com/Beast1610/Loungify/assets/111764205/6719c2f3-7593-4606-be38-fc37f00a2e91)
+![music second page music being fetched](https://github.com/Beast1610/Loungify/assets/111764205/3a4741bc-3b07-48c8-b5cd-477efa63b68a)
+![(1)meditation page 1](https://github.com/Beast1610/Loungify/assets/111764205/d142e404-ad9e-42d5-ab72-4ed888ed29e3)
+![WhatsApp Image 2023-11-22 at 18 13 10_0651f2ce](https://github.com/Beast1610/Loungify/assets/111764205/89056c34-2763-4de0-8b06-aee865f45250)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
