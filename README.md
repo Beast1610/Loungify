@@ -3,7 +3,7 @@ Loungify is a web application aimed at offering individuals a digital sanctuary 
 
 # Objective :
 Our web application-Loungify, aims to counter the addictive nature of mainstream social media platforms like Instagram and Facebook, which often consume excessive time, hindering productivity and contributing to stress and depression. 
-Unlike these platforms, Loungify offers users a non-addictive space for quick 5-10 minute refreshment, allowing them to rejuvenate without the negative impact on their work and well-being.
+Unlike these platforms, Loungify offers users a non-addictive space for quick 5-10 minute respite, allowing them to rejuvenate without the negative impact on their work and well-being.
 
 # Functionality
 - The platform acts as an all in one entertainment destination.
