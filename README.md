@@ -33,7 +33,7 @@ You may also see any lint errors in the console.
 ![WhatsApp Image 2023-11-22 at 18 16 56_eaf46c5f](https://github.com/Beast1610/Loungify/assets/111764205/6719c2f3-7593-4606-be38-fc37f00a2e91)
 ![music second page music being fetched](https://github.com/Beast1610/Loungify/assets/111764205/3a4741bc-3b07-48c8-b5cd-477efa63b68a)
 ![(1)meditation page 1](https://github.com/Beast1610/Loungify/assets/111764205/d142e404-ad9e-42d5-ab72-4ed888ed29e3)
-![WhatsApp Image 2023-11-22 at 18 13 10_0651f2ce](https://github.com/Beast1610/Loungify/assets/111764205/89056c34-2763-4de0-8b06-aee865f45250)
+![image](https://github.com/Beast1610/Loungify/assets/111764205/7070a49f-1453-49b6-99a7-cebe3b20d74c)
 ![image](https://github.com/Beast1610/Loungify/assets/111764205/48f01038-fc5a-48b8-b6bf-60fc84ccd0fc)
 
 
